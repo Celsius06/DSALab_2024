@@ -19,10 +19,9 @@ public class Problem_1_i {
         System.out.print("Enter the number of digits: ");
         int numDigits = sc.nextInt();
 
-        // Validate user input for positive number of digits
         if (numDigits <= 0) {
             System.out.println("Error: Please enter a positive number of digits.");
-            return; // Exit the program if invalid input
+            return; 
         }
 
         int[] digitsArr = new int[numDigits];
@@ -34,7 +33,7 @@ public class Problem_1_i {
 
         System.out.print("Numbers from array: ");
         for (int digit : digitsArr) {
-            System.out.print(digit + " "); // Add a space after each digit
+            System.out.print(digit + " "); 
         }
         System.out.println();
 

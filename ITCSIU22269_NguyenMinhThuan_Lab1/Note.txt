@@ -1,0 +1,9 @@
+
+To compile the Problem_2_i_ClassDataArray class and place the output class file in a subfolder using the javac command in the VSCode terminal, 
+you can specify the output directory using the -d option followed by the path to the desired output directory.
+
+Here's how you can do it:
+javac -d <path_to_subfolder> Problem_2_i_ClassDataArray.java
+
+Replace <path_to_subfolder> with the actual path to the subfolder where you want the output class file to be placed. For example:
+javac -d bin Problem_2_i_ClassDataArray.java
