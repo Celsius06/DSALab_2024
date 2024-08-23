@@ -1,0 +1,3 @@
+Those code classes that are in the draft folders are just for testing purposes; 
+they can be ignored in the grading process. 
+Thank you very much for grading my work. I wish you a happy day, lecturer <3
