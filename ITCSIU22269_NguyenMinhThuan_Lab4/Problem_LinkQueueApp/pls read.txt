@@ -1,0 +1,6 @@
+This folder of Java classes focus on the first two requirements mentioned in the quetion about LinkQueueApp, as follow:
+• Put different classes in separate files.
+• Create a new remove() method that removes item N after N calls to the method
+
+I want to split them with the folder about simulating a queue of customers in order not to get any undesired error. 
+I'm sorry for this inconvenience lecturer :<

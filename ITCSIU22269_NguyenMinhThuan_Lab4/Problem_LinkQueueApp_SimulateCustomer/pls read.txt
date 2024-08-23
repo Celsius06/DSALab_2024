@@ -1,0 +1,7 @@
+This folder of Java classes focus on the next two requirements mentioned in the quetion about LinkQueueApp, as follow:
+• Simulate a queue of customers each one served for a random amount of time.
+• Add a size() method and investigate how simulation is affected by the time needed to serve a 
+  customer and the rate at which customers join the queue.
+
+I want to split them with the first folder in order not to get any undesired error. 
+I'm sorry for this inconvenience, lecturer :<
